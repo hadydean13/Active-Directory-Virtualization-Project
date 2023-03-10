@@ -1,7 +1,6 @@
 # Active Directory Virtualization Project
 
 Starting off, here are the 3 virtual machines I setup for this project:
-![](Screenshots/AD_DC_Login_Screen.png)
 
 ### My Domain Controller running Windows Server 2022
 ![](Screenshots/AD_DC_Login_Screen.png)
