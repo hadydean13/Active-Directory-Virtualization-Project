@@ -2,17 +2,17 @@
 
 Starting off, here are the 3 virtual machines I setup for this project:
 
-### My Domain Controller running Windows Server 2022
+### My Domain Controller running Windows Server 2022:
 ![](Screenshots/AD_DC_Login_Screen.png)
 
 <br/>
 
-### My Workstation running Windows 11
+### My Workstation running Windows 11:
 ![](Screenshots/AD_Win11VM_Login_Screen.png)
 
 <br/>
 
-### and lastly, my virtualized router setup using pfSense
+### and lastly, my virtualized router setup using pfSense:
 ![](Screenshots/AD_pfSense_VM.png)
 
 <br/>
