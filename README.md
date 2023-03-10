@@ -7,7 +7,7 @@ Starting off, here are the 3 virtual machines I setup for this project:
 
 <br/>
 
-### My Workstation running Windows 11:
+### My workstation running Windows 11:
 ![](Screenshots/AD_Win11VM_Login_Screen.png)
 
 <br/>
@@ -23,7 +23,7 @@ Starting off, here are the 3 virtual machines I setup for this project:
 
 <br/>
 
-### Connecting the Workstation to my domain:
+### Connecting the workstation to my domain:
 ![](Screenshots/AD_Welcome.png)
 
 <br/>
@@ -38,7 +38,7 @@ Starting off, here are the 3 virtual machines I setup for this project:
 
 <br/>
 
-### Creating a text file on the Workstation from the Domain Controller using PowerShell:
+### Creating a text file on the workstation from the Domain Controller using PowerShell:
 ![](Screenshots/AD_Create_File.png)
 
 <br/>
