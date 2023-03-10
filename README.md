@@ -39,9 +39,10 @@ Starting off, here are the 3 virtual machines I setup for this project:
 <br/>
 
 ### Creating a text file on my Workstation from my Domain Controller using PowerShell:
-![](Screenshots/AD_Win11-VM-Create_File.png)
+![](Screenshots/AD_Create_File.png)
 
 <br/>
+
 ### Enabling WinRM on the Workstation to allow remote assistance from the Domain Controller:
 ![](Screenshots/AD_Win11-VM_WinRM.png)
 
