@@ -22,7 +22,16 @@ pfSense Dashboard
 
 <br/>
 
-Network Adapter setup on the pfSense Machine
-![](Screenshots/AD_pfSense_VM.png)
+Network Adapter setup
+![](Screenshots/AD_HyperV_pfSense_Config.png)
 
 <br/>
+
+Connecting the workstation to my domain
+![](Screenshots/AD_Welcome.png)
+
+<br/>
+
+Configuring group policy on the Domain Controller:
+![](Screenshots/AD_DC_Group_Policy.png)
+
