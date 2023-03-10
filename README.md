@@ -17,12 +17,8 @@ Starting off, here are the 3 virtual machines I setup for this project:
 
 <br/>
 
-pfSense Dashboard
+pfSense Dashboard & Adapter Setup
 ![](Screenshots/AD_pfSense_Dashboard.png)
-
-<br/>
-
-Network Adapter setup
 ![](Screenshots/AD_HyperV_pfSense_Config.png)
 
 <br/>
