@@ -12,7 +12,7 @@ Starting off, here are the 3 virtual machines I setup for this project:
 
 <br/>
 
-### and lastly, my virtualized router setup using pfSense:
+### Lastly, my virtualized router setup using pfSense:
 ![](Screenshots/AD_pfSense_VM.png)
 
 <br/>
