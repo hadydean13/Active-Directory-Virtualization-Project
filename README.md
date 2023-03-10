@@ -1,4 +1,6 @@
-# Active-Directory-Virtualization-Project
-An Active Directory setup using virtualization and pfSense.
+# Active Directory Virtualization Project
+By Hady Dean
+
+
 
 ![](Screenshots/AD_Create_File.png)
